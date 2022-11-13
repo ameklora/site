@@ -1,38 +1,40 @@
-body {
-    width: 360px;
-    height: 800px;
-}
 .workspace {
-    width: 360px;
-    height: 800px;
-    background: #FBE5D6;
+    position: absolute;
+    left: 90px;
+    width: 800px;
+    height: 1000px;
 }
 my_first_site {
     position: absolute;
-    width: 176px;
-    height: 23px;
-    left: 92px;
-    top: 32px;
+    width: 520px;
+    height: 25px;
+    left: 140px;
+    top: 80px;
     font-family: 'Ubuntu';
     font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
+    font-weight: 600;
+    font-size: 60px;
     line-height: 23px;
     text-align: center;
     color: #404040;
     }
 default_text {
     position: absolute;
-    width: 268px;
-    height: 64px;
-    left: 46px;
-    top: 97px;
+    left: 0px;
+    width: 800px;
+    top: 140px;
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 400;
-    font-size: 100px;
-    line-height: 16px;
+    font-size: 36px;
+    line-height: 40px;
     letter-spacing: 0.01em;
     color: #404040;
     }
-
+sticker1 {
+    position: absolute;
+    width: 400px;
+    height: 370px;
+    left: 200px;
+    top: 400px;
+}
