@@ -1,15 +1,24 @@
 .workspace {
     position: absolute;
-    left: 90px;
-    width: 800px;
-    height: 1300px;
+    height: 1260px;
+}
+body {
+    padding: 20px;
+    background-color: ##FBE5D6;
+    width: 80%;
+    height: 1260px;
+    margin: 0 auto;
+    max-width: 700px;
+}
+.container {
+    margin: 10 auto;
 }
 my_first_site {
     position: absolute;
     width: 520px;
     height: 25px;
-    left: 140px;
     top: 80px;
+    left: 110px;
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 600;
@@ -20,9 +29,9 @@ my_first_site {
     }
 default_text {
     position: absolute;
-    left: 0px;
     width: 800px;
     top: 140px;
+    left: -30px;
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 400;
@@ -36,15 +45,14 @@ sticker1 {
     position: absolute;
     width: 400px;
     height: 370px;
-    left: 200px;
+    left: 170px;
     top: 400px;
     }
 default_text1 {
     position: absolute;
-    width: 800px;
-    left: 0px;
+    width: 610px;
     top: 830px;
-
+    left: 65px;
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 400;
@@ -57,8 +65,8 @@ default_text1 {
     }
 default_text2 {
     position: absolute;
-    width: 800px;
-    left: 0px;
+    width: 660px;
+    left: 40px;
     top: 1020px;
 
     font-family: 'Ubuntu';
@@ -73,10 +81,9 @@ default_text2 {
     }
 libk {
     position: absolute;
-    width: 800px;
-    left: 0px;
+    width: 150px;
     top: 960px;
-
+    left: 295px;
     font-family: 'Ubuntu';
     font-style: italic;
     font-weight: 400;
@@ -92,8 +99,8 @@ libk {
 dif_text1 {
     position: absolute;
     width: 300px;
-    height: 40px;
     left: 30px;
+    height: 40px;
     top: 1200px;
 
     font-family: 'Ubuntu';
@@ -109,8 +116,8 @@ dif_text1 {
 dif_text2 {
     position: absolute;
     width: 300px;
-    height: 40px;
     left: 235px;
+    height: 40px;
     top: 1197px;
 
     font-family: 'Oswald';
@@ -160,21 +167,21 @@ dif_text4 {
 figure1 {
     position: absolute;
     width: 60px;
+    left: 90px;
     height: 60px;
-    left: 100px;
     top: 1150px;
     }
 figure2 {
     position: absolute;
     width: 60px;
+    left: 320px;
     height: 60px;
-    left: 340px;
     top: 1150px;
     }
 figure3 {
     position: absolute;
     width: 60px;
+    left: 550px;
     height: 60px;
-    left: 580px;
     top: 1150px;
     }
