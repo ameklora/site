@@ -27,6 +27,7 @@ default_text {
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
+    text-align: center;
     line-height: 40px;
     letter-spacing: 0.01em;
     color: #404040;
@@ -37,4 +38,143 @@ sticker1 {
     height: 370px;
     left: 200px;
     top: 400px;
-}
+    }
+default_text1 {
+    position: absolute;
+    width: 800px;
+    left: 0px;
+    top: 830px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #404040;
+    }
+default_text2 {
+    position: absolute;
+    width: 800px;
+    left: 0px;
+    top: 1020px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #404040;
+    }
+libk {
+    position: absolute;
+    width: 800px;
+    left: 0px;
+    top: 960px;
+
+    font-family: 'Ubuntu';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #404040;
+    }
+dif_text1 {
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 30px;
+    top: 1200px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #FF0000;
+    }
+dif_text2 {
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 235px;
+    top: 1197px;
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #2400FF;
+    }
+dif_text3 {
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 410px;
+    top: 1200px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weig ht: 400;
+    font-size: 36px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #00D1FF;
+    }
+dif_text4 {
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 600px;
+    top: 1202.5px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.01em;
+
+    color: #FF00E5;
+    }
+figure1 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 100px;
+    top: 1150px;
+    }
+figure2 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 340px;
+    top: 1150px;
+    }
+figure3 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 580px;
+    top: 1150px;
+    }
